@@ -39,7 +39,6 @@ apis:
   - name: Transport for UK
     description: "Transport API and dataset for UK"
     humanURL: https://developer.transportapi.com
-    baseURL: https://developer.transportapi.com
     tags:
       - Transportation
     properties:
